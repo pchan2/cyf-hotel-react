@@ -55,3 +55,11 @@ tr {
 .card {
   width: 18rem;
 }
+
+.guestrow {
+  background: #ffffff;
+}
+
+.guestrow.active {
+  background: #add8e6;
+}
